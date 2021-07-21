@@ -4,7 +4,7 @@ id: "cloudbees-ci-config-ops-controller"
 description: "CloudBees CI configuration bundle for the cloudbees-ci-config ops-controller Controller"
 jcasc:
   - "jcasc/jenkins.yaml"
-  -"jcasc/credentials.yaml"
+  - "jcasc/credentials.yaml"
 plugins:
   - "plugins.yaml"
 catalog:
